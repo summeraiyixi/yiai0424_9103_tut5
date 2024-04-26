@@ -23,4 +23,8 @@ this is my second commit
 
 **Image**
 **Remote Images**
-![An imgae of a cat](http://placekitten.com/600/800)
+![An imgae of a cat](http://placekitten.com/600/800.jpg)
+
+**Local images**
+
+![The Mona Lisa](readImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
